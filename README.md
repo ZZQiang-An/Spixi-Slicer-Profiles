@@ -1,1 +1,1 @@
-# Sovol-OrcaSlicer
+# Spixi Slicer Profiles
