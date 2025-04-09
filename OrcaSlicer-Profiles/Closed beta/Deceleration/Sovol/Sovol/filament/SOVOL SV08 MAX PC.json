@@ -7,17 +7,18 @@
 	"instantiation": "true",
 	"inherits": "fdm_filament_pc",
 	"filament_flow_ratio": ["0.98"],
-	"filament_max_volumetric_speed": ["21"],
+	"filament_max_volumetric_speed": ["18"],
 	"compatible_printers": [
 		"SOVOL SV08 MAX 0.4 nozzle",
         "SOVOL SV08 MAX 0.6 nozzle",
         "SOVOL SV08 MAX 0.8 nozzle"
 	],
+    "close_fan_the_first_x_layers": "3",
 	"nozzle_temperature_initial_layer": [
-        "290"
+        "280"
     ],
 	"nozzle_temperature": [
-        "270"
+        "260"
     ],
     "nozzle_temperature_range_low": [
         "190"
@@ -26,35 +27,35 @@
         "350"
 	],
 	"hot_plate_temp" : [
-        "110" 
+        "100" 
     ],
     "hot_plate_temp_initial_layer" : [
-        "110"
+        "100"
     ],
 	"fan_min_speed": [
         "10"
     ],
     "fan_max_speed": [
-        "20"
+        "40"
     ],
 	"fan_cooling_layer_time": [
-        "40"
+        "30"
     ],
     "full_fan_speed_layer": [
         "3"
     ],
     "slow_down_layer_time": [
-        "5"
+        "12"
     ],
     "slow_down_min_speed": [
         "10"
     ],
     "dont_slow_down_outer_wall": "0",
     "overhang_fan_speed": [
-        "20"
+        "60"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "25%"
     ],
     "temperature_vitrification": [
         "60"

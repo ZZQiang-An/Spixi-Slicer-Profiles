@@ -14,7 +14,7 @@
         "SOVOL SV08 MAX 0.8 nozzle"
 	],
 	"nozzle_temperature_initial_layer": [
-        "260"
+        "250"
     ],
 	"nozzle_temperature": [
         "230"
