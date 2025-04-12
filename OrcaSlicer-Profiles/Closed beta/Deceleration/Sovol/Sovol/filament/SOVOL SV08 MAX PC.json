@@ -61,7 +61,7 @@
         "60"
     ],
     "additional_cooling_fan_speed": "0",
-    "activate_air_filtration": "1",
+    "activate_air_filtration": ["0"],
     "during_print_exhaust_fan_speed": "50",
     "complete_print_exhaust_fan_speed": "50"
 }
