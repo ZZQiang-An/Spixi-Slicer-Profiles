@@ -7,7 +7,7 @@
 	"instantiation": "true",
 	"inherits": "fdm_filament_abs",
 	"filament_flow_ratio": ["0.98"],
-	"filament_max_volumetric_speed": ["21"],
+	"filament_max_volumetric_speed": ["20"],
 	"nozzle_temperature_initial_layer": [
         "280"
     ],
@@ -21,16 +21,16 @@
         "300"
     ],
 	"hot_plate_temp": [
-        "100"
+        "95"
     ],
     "hot_plate_temp_initial_layer": [
-        "100"
+        "95"
     ],
 	"fan_min_speed": [
         "10"
     ],
     "fan_max_speed": [
-        "30"
+        "60"
     ],
 	"fan_cooling_layer_time": [
         "30"
@@ -39,16 +39,16 @@
         "3"
     ],
     "slow_down_layer_time": [
-        "5"
+        "12"
     ],
     "slow_down_min_speed": [
         "10"
     ],
     "overhang_fan_speed": [
-        "30"
+        "100"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "25%"
     ],
     "temperature_vitrification": [
         "60"

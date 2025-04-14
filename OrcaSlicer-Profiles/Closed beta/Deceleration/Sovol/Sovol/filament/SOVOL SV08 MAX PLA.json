@@ -32,13 +32,13 @@
         "65"
     ],
 	"fan_min_speed": [
-        "50"
-    ],
-    "fan_max_speed": [
         "80"
     ],
+    "fan_max_speed": [
+        "100"
+    ],
 	"fan_cooling_layer_time": [
-        "60"
+        "50"
     ],
     "slow_down_layer_time": [
         "6"
