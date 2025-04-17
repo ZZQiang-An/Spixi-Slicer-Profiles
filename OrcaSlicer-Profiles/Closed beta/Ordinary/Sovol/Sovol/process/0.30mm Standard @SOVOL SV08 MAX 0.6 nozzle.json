@@ -140,7 +140,7 @@
 	"additional_cooling_fan_speed": "0",
 	"thick_bridges": "1",
 	"bridge_angle": "0",
-	"post_process": ["C:\\Users\\Administrator\\AppData\\Roaming\\OrcaSlicer-sovol\\Plugins\\SpixiDecelerationTool.exe -h 100,10 -w 500,50 -k 2,10 -f "],
+	"post_process": [],
 	"compatible_printers": [
 		"SOVOL SV08 MAX 0.6 nozzle"
 	]

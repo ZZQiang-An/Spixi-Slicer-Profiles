@@ -12,7 +12,7 @@
 	"bottom_surface_pattern": "rectilinear",
 	"bottom_shell_layers": "3",
 	"bottom_shell_thickness": "0",
-	"bottom_solid_infill_flow_ratio": "1.25",
+	"bottom_solid_infill_flow_ratio": "1.15",
 	"bridge_flow": "1.2",
 	"internal_bridge_flow": "1.2",
 	"bridge_speed": "50",
@@ -48,7 +48,7 @@
 	"initial_layer_jerk": "5",
 	"travel_jerk": "5",
 	"initial_layer_line_width": "0.5",
-	"initial_layer_print_height": "0.2",
+	"initial_layer_print_height": "0.25",
 	"infill_combination": "0",
 	"sparse_infill_line_width": "0.45",
 	"infill_wall_overlap": "25%",
@@ -108,7 +108,7 @@
 	"top_shell_layers": "4",
 	"top_shell_thickness": "1",
 	"initial_layer_speed": "40",
-	"initial_layer_infill_speed": "95",
+	"initial_layer_infill_speed": "65",
 	"initial_layer_travel_speed": "60%",
 	"outer_wall_speed": "200",
 	"inner_wall_speed": "300",
@@ -141,7 +141,7 @@
 	"additional_cooling_fan_speed": "0",
 	"thick_bridges": "1",
 	"bridge_angle": "0",
-	"post_process": ["C:\\Users\\Administrator\\AppData\\Roaming\\OrcaSlicer-sovol\\Plugins\\SpixiDecelerationTool.exe -h 100,10 -w 500,50 -k 2,10 -f "],
+	"post_process": [],
 	"compatible_printers": [
 		"SOVOL SV08 MAX 0.4 nozzle"
 	]
